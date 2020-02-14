@@ -1,0 +1,16 @@
+{
+  "name": "Responsive Css Framework RCF",
+  "version": "1.0.0",
+  "description": "Responsive Css Framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "responsive",
+    "navbar",
+    "css"
+  ],
+  "author": "Muhammet Başar Dinçel",
+  "license": "ISC"
+}
